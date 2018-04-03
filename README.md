@@ -20,7 +20,7 @@ I wanted to use what 've learned on DeepLearning to make a real-world project. I
 
 <img src="https://github.com/DessaiImrane/digit-recognition/blob/master/Digit-Recognition-Thumb.gif">
 
-For long version, [see]()
+For long version, [see](https://youtu.be/7OpQ9ax3jac)
 
 
 ### Python  Implementation
