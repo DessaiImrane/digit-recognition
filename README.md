@@ -3,7 +3,7 @@
 
 ### Requirements
 
-I tested the code on pyhton 3.6.5 x86_64
+I tested the code on python 3.6.5 x86_64
 
 ```
 pip install opencv-python
