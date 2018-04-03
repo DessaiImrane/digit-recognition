@@ -16,7 +16,7 @@ pip install imutils
 
 ### Description
 
-I wanted to use my knowledge on DeepLearning to make a real-world project. It was fun and i've learned many things.
+I wanted to use what 've learned on DeepLearning to make a real-world project. It was fun and i've learned many new things.
 
 <img src="https://github.com/DessaiImrane/digit-recognition/blob/master/Digit-Recognition-Thumb.gif">
 
